@@ -15,7 +15,9 @@ Curso progresivo para desarrollar una comprensión experta de la neurociencia de
 - [x] Clase 1.5 — Las células gliales
 - [x] Clase 1.6 — Comunicación neuronal: sinapsis, neurotransmisores y receptores
 - [x] Clase 1.7 — Neurotransmisores y neuromoduladores: la química del cerebro
-- [ ] Clase 1.8 — Neuroplasticidad: cómo cambia el cerebro con la experiencia
+- [x] Clase 1.8 — Neuroplasticidad: cómo cambia el cerebro con la experiencia
+- [x] Clase 1.9 — Desarrollo del sistema nervioso
+- [ ] Clase 1.10 — Desarrollo prenatal del cerebro
 
 ## Estructura
 
@@ -31,7 +33,13 @@ NEUROCIENCIA DEL DESARROLLO
 │       ├── 1.5 Glía
 │       ├── 1.6 Comunicación neuronal
 │       ├── 1.7 Neurotransmisores y neuromoduladores
-│       └── 1.8 Neuroplasticidad
+│       ├── 1.8 Neuroplasticidad
+│       ├── 1.9 Desarrollo del sistema nervioso
+│       └── 1.10 Desarrollo prenatal del cerebro
 ```
+
+## Documentación
+
+Las clases están disponibles en [`docs/`](docs/).
 
 > Curso en desarrollo. Las clases se irán incorporando progresivamente al repositorio.
